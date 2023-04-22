@@ -1,0 +1,9 @@
+Q1d8VAKrDEpR0qbnRIjTgBdhhc8ZA= /bin /usr/bin /sbin /usr/sbin /lib/modules/*
+Q1cR4+zdqrBAsAV8QMsJ+LIGwYEIs= /usr/share/fonts/*
+Q1mPrwghTvzX4Shj7edJkXt9a3GWk= /usr/share/glib-2.0/schemas /usr/lib/gio/modules
+Q1sc339UcTFIb3Ob71ltaNsujdBCQ= /usr/share/mime
+Q1+WWlr6POKIum3aiREibMYDKCLSM= /usr/lib/gdk-pixbuf-2.0/*/loaders
+Q1f9/bArLpNVTvKIhN8Tx601Fjp5Y= /usr/share/icons/*
+Q19XvGcTinen+9vkOQ1pbiR2eSTUc= /usr/lib/pango/*/modules
+Q14g+w1eiZ5uw4vb7dXTxwQrFK8+Q= /usr/share/fonts/*
+Q1verJdXNmU6/F7ydxHnDKmPm0K4U= /usr/share/ca-certificates /usr/local/share/ca-certificates /etc/ssl/certs /etc/ca-certificates/update.d
