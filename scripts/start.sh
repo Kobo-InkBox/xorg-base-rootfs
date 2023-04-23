@@ -5,9 +5,9 @@ export DISPLAY=:0
 if [ "$1" == "fullscreen" ]; then
 	i3 -c /root/.config/i3/config-fullscreen &
 elif [ "$1" == "windowed" ]; then
-	i3 -c /root/.config/i3/config &
+	openbox &
 else
-	echo "You need to specify a valid i3 config."
+	echo "You need to specify a valid window manager config."
 	echo "Available configs are: fullscreen, windowed"
 	exit 1
 fi
