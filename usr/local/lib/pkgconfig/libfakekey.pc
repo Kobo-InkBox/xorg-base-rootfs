@@ -1,0 +1,10 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libfakekey
+Description: X Virtual Keyboard Library
+Version: 0.3
+Libs: -L${libdir} -lX11 -lXtst  -lfakekey
+Cflags: -I${includedir} 
