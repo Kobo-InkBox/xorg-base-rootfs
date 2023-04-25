@@ -22,6 +22,9 @@ else
 	:
 fi
 
+# Graphics
+env LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/bin/FBInk/Release/ DISPLAY=:0 /usr/local/bin/fbink_xdamage &
+
 if [ "$2" != "" ]; then
 	# Launch app/program requested by user
 	# Due to a strange problem that I can't resolve, it is impossible to launch NetSurf via the standard method.
